@@ -1,6 +1,7 @@
 # daytonrust.net
-In which we gather the intrepid programmers in the Dayton area to discuss Rust
 
-More info:   bill.blum@gmail.com
+Tentatively planning to kick off in person meetings in Fall 2021.
+
+Stay safe, and be well.
 
 
